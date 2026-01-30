@@ -1,6 +1,6 @@
 {
   "name": "Linet My Love",
-  "short_name": "Linet My Love",
+  "short_name": "Linet",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#6a0dad",
@@ -20,3 +20,4 @@
     }
   ]
 }
+
