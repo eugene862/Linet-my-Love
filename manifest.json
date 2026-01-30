@@ -5,18 +5,19 @@
   "display": "standalone",
   "background_color": "#6a0dad",
   "theme_color": "#6a0dad",
-  "icons": [
+"icons": [
     {
       "src": "photo.jpg",
       "sizes": "192x192",
       "type": "image/jpeg",
-      "purpose": "any"
+      "purpose": "any maskable"
     },
     {
       "src": "photo.jpg",
       "sizes": "512x512",
       "type": "image/jpeg",
-      "purpose": "any"
+      "purpose": "any maskable"
     }
   ]
 }
+
