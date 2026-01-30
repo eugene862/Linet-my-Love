@@ -1,0 +1,20 @@
+{
+  "name": "Linet My Love",
+  "short_name": "Linet",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#6a0dad",
+  "theme_color": "#6a0dad",
+  "icons": [
+    {
+      "src": "pic.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "pic.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    }
+  ]
+}
